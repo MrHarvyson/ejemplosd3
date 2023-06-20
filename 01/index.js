@@ -8,6 +8,7 @@
 //     .style('stroke-width',2)
 //     .style('stroke','#000000')
 
+//datos
 const data = [
     { day: "lunes", pasos: 1000 },
     { day: "martes", pasos: 2000 },
